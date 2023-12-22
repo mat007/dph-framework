@@ -23,7 +23,7 @@ a persona, etc. then the persona champion is your best point of contact.
 When first creating the [Developer Personas](developer-personas.md), it is often
 helpful to provide infrastructure owners with some basic information about how
 that persona does work. A persona champion produces and maintains a document
-that ansnwers the questions, "What is the most common workflow that a developer
+that answers the questions, "What is the most common workflow that a developer
 has, in this persona? What tools do they use as part of this workflow, and how
 do they use them?"
 
